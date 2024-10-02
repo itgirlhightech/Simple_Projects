@@ -1,1 +1,2 @@
-.
+##  Um jogo interativo onde os usuários tentam adivinhar uma palavra escolhida aleatoriamente, recebendo dicas a cada tentativa.
+# O programa inclui scanner e até mesmo laços de repetição, deixando o código mais forte e de bom funcionamento.
