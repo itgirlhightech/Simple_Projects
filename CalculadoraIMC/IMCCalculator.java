@@ -20,10 +20,11 @@ public class IMCCalculator {
     }
 
     public static String classificarIMC(double imc) {
-        if (imc < 18.5) return "Abaixo do peso";
-        else if (imc < 24.9) return "Peso normal";
-        else if (imc < 29.9) return "Sobrepeso";
-        else return "Obesidade";
+        if (imc < 18.5) return "Abaixo do peso, melhore sua alimentação";
+        else if (imc < 24.9) return "Peso normal, continue com uma boa alimentação";
+        else if (imc < 29.9) return "Sobrepeso, melhore sua alimentação";
+        else return "Obesidade, melhore a sua alimentação e atividade física";
     }
+    
 
 }
